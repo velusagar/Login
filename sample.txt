@@ -1,2 +1,3 @@
 "This is the git clone used to connect in github"
 "git pull to pull request to gitlocal machine"
+"git branch help show branch"
